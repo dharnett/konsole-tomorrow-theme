@@ -52,5 +52,8 @@ Color=0,52,110
 [Foreground]
 Color=255,255,255
 
+[ForegroundIntense]
+Color=255,255,255
+
 [General]
 Description=TomorrowNightBlue
